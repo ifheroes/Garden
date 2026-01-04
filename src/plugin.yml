@@ -1,0 +1,10 @@
+api-version: 1.21
+main: com.ifheroes.garden.Garden
+
+name: IFH-Garden
+version: 1.0
+author: I_Dev, Salznomade
+description: Ifheroes Garden is an idle game. Players create and manage their garden, harvest and cultivate plants to gain Level and Money.
+
+commands:
+   testdebug:
